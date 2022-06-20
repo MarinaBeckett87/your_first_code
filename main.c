@@ -5,5 +5,5 @@ int main()
   {
     printf("Hello_School\n");
   }
-  return 32;
+  return 0;
 }
